@@ -1,0 +1,22 @@
+body {
+    background-color: #ffcccc;
+}
+
+.back {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("https://miro.medium.com/v2/resize:fit:679/0*3oJdSb7B26rt3xjJ");
+    background-size: cover;
+    background-position: center;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.rules {
+    position: fixed;
+    bottom: 0;
+    transform: translateX(100%);
+}
