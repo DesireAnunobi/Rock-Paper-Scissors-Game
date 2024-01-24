@@ -1,9 +1,10 @@
-// Initializing the variables that we are going to use. 
+var options = ['r', 'p', 's']
+// Initializing the variables that we are going to use
 // Firstly, we have the computer's choices, so the computer can also only choose from rock, paper or scissors.
 // Create array that lists all the optios for the game
 // r = rock, p = paper, s = scissors
 // Must include = sign to list options
-var options = ['r', 'p', 's']
+
 
 // Create/Assign variable for win, lose and ties. Starts at 0.
 // Global variables in this file that we can then access in this for a loop.
